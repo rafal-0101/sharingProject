@@ -18,7 +18,8 @@
         {
           "cameraPermission": "Allow $(PRODUCT_NAME) to access camera."
         }
-      ]
+      ],
+      ["expo-camera"]
     ],
     "ios": {
       "supportsTablet": true
